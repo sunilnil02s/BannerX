@@ -11,6 +11,6 @@ def delay_print(s):
         time.sleep(0.011)
 delay_print
 delay_print (""+G+"╔════════════════════════════════════════╗  ""\n")
-delay_print (""+G+"║ Instagram: @ hackerx30                 ║  ""\n")
+delay_print (""+G+"║ Instagram: @ mrhacker.x                ║  ""\n")
 delay_print (""+G+"║ Github: https://github.com/MrHacker-X/ ║  ""\n")
 delay_print (""+G+"╚════════════════════════════════════════╝  ""\n")
