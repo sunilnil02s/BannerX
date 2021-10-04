@@ -4,7 +4,7 @@ echo
 echo -e '\033[1;96m' "══════════════════════════════════════════"
 echo -e '\033[1;96m' " |        Created by 'MrHacker-X'       |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
-echo -e '\033[1;96m' " |        Instagram: @ mrhacker.x       |"
+echo -e '\033[1;96m' " |        Instagram: @ hackerxmr        |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
 echo
 echo -e '\033[1;96m' "YouTube: https://youtube.com/c/MrHackerXr"
@@ -26,7 +26,7 @@ echo
 echo -e '\033[1;96m' "══════════════════════════════════════════"
 echo -e '\033[1;96m' " |        Created by 'MrHacker-X'       |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
-echo -e '\033[1;96m' " |        Instagram: @ mrhacker.x       |"
+echo -e '\033[1;96m' " |        Instagram: @ hackerxmr        |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
 echo
 figlet Finished | lolcat
