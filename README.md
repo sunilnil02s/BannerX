@@ -6,15 +6,15 @@
 
 + ```pkg update && pkg upgrade```
 + ```pkg install git -y```
-+ ```git clone https://github.com/MrHacker-X/Termux-Shell.git```
-+ ```cd Termux-Shell```
++ ```git clone https://github.com/MrHacker-X/BannerX.git```
++ ```cd BannerX```
 + ```chmod +x *```
 + ```bash setup.sh```
 + ```exit```
 
 ## Single line command
 ```
-pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/MrHacker-X/Termux-Shell.git && cd Termux-Shell && chmod +x * && bash setup.sh && exit
+pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/MrHacker-X/BannerX.git && cd BannerX && chmod +x * && bash setup.sh && exit
 ```
 ## First Look
 ![photo](https://e.top4top.io/p_18889bda10.jpg)
@@ -23,8 +23,8 @@ pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/
 
 ## Follow US:
 
-+ [Instagram](https://instagram.com/mrhacker.x/)
-+ [YouTube](https://youtube.com/c/MrHackerXr/)
++ [Instagram](https://instagram.com/hackerxmr/)
++ [YouTube](https://youtube.com/c/Sololex/)
 + [Github](https://github.com/MrHacker-X/)
 
 ### Created By 'MrHacker-X'
