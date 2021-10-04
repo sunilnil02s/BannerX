@@ -7,7 +7,7 @@ echo -e '\033[1;96m' "═══════════════════�
 echo -e '\033[1;96m' " |        Instagram: @ hackerxmr        |"
 echo -e '\033[1;96m' "══════════════════════════════════════════"
 echo
-echo -e '\033[1;96m' "YouTube: https://youtube.com/c/MrHackerXr"
+echo -e '\033[1;96m' "YouTube: https://youtube.com/c/Sololex/"
 echo -e '\033[1;92m'
 echo "Installing.................."
 echo
