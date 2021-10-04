@@ -18,8 +18,10 @@ pkg install mpv -y
 echo
 rm /data/data/com.termux/files/usr/etc/bash.bashrc
 rm /data/data/com.termux/files/usr/etc/motd
-cp bash.bashrc /data/data/com.termux/files/usr/etc
-cp -r lib /data/data/com.termux/files/usr/etc
+mv bash.bashrc /data/data/com.termux/files/usr/etc
+mv lib /data/data/com.termux/files/usr/etc
+cd ..
+rm -rf BannerX
 echo
 clear
 echo
